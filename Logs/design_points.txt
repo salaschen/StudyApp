@@ -1,3 +1,4 @@
 11/Nov/2023:
 --------------
 1.  Present the cards in different colors, maybe choose the color randomly.
+2.  Use SQLite database to store data.
