@@ -1,0 +1,4 @@
+12/Nov/2023:
+1. Created Project.
+2. Init sqlite db.
+3. Created Category, but do the IO inside of the db entity.
